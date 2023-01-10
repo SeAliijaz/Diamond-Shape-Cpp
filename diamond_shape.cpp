@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main(void)
 {
     int n;
     cout << "Enter the number of rows: ";
@@ -34,6 +34,4 @@ int main()
 
         cout << endl;
     }
-
-    return 0;
 }
